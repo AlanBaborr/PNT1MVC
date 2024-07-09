@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CarritoMVC.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .titulo-categorias{
+        text-align:center;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .descripcion{
+        text-align: center;
+        font-size:25px;
+        font-weight: 800;
+    }
+</style>
+
+<h1 class="titulo-categorias">Nuestras categorias de productos</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.CategoriaId">Editar</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.CategoriaId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CarritoMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarritoMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\Remera1.jpg",
+      "PackagePath": "staticwebassets\\img\\Remera1.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\buzo1.webp",
+      "PackagePath": "staticwebassets\\img\\buzo1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\buzo2.webp",
+      "PackagePath": "staticwebassets\\img\\buzo2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\buzo3.webp",
+      "PackagePath": "staticwebassets\\img\\buzo3.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\camisa manga corta.jpg",
+      "PackagePath": "staticwebassets\\img\\camisa manga corta.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\celular1.webp",
+      "PackagePath": "staticwebassets\\img\\celular1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\celular2.webp",
+      "PackagePath": "staticwebassets\\img\\celular2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\deportiva1.webp",
+      "PackagePath": "staticwebassets\\img\\deportiva1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\deportiva2.webp",
+      "PackagePath": "staticwebassets\\img\\deportiva2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\deportiva3.webp",
+      "PackagePath": "staticwebassets\\img\\deportiva3.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\fb.png",
+      "PackagePath": "staticwebassets\\img\\fb.png"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\foto1.jpg",
+      "PackagePath": "staticwebassets\\img\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\foto2.jpg",
+      "PackagePath": "staticwebassets\\img\\foto2.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\foto3.jpg",
+      "PackagePath": "staticwebassets\\img\\foto3.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\foto4.jpg",
+      "PackagePath": "staticwebassets\\img\\foto4.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\foto5.jpg",
+      "PackagePath": "staticwebassets\\img\\foto5.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\inst.png",
+      "PackagePath": "staticwebassets\\img\\inst.png"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\item.jpg",
+      "PackagePath": "staticwebassets\\img\\item.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\largo1.webp",
+      "PackagePath": "staticwebassets\\img\\largo1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\largo2.webp",
+      "PackagePath": "staticwebassets\\img\\largo2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\largo3.webp",
+      "PackagePath": "staticwebassets\\img\\largo3.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\pantalon.jpg",
+      "PackagePath": "staticwebassets\\img\\pantalon.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\procesador1.webp",
+      "PackagePath": "staticwebassets\\img\\procesador1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\producto 2.jpg",
+      "PackagePath": "staticwebassets\\img\\producto 2.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\producto.jpg",
+      "PackagePath": "staticwebassets\\img\\producto.jpg"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\remera1.webp",
+      "PackagePath": "staticwebassets\\img\\remera1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\remera2.webp",
+      "PackagePath": "staticwebassets\\img\\remera2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\remera3.webp",
+      "PackagePath": "staticwebassets\\img\\remera3.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\short1.webp",
+      "PackagePath": "staticwebassets\\img\\short1.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\short2.webp",
+      "PackagePath": "staticwebassets\\img\\short2.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\short3.webp",
+      "PackagePath": "staticwebassets\\img\\short3.webp"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\tw.png",
+      "PackagePath": "staticwebassets\\img\\tw.png"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\img\\wp.png",
+      "PackagePath": "staticwebassets\\img\\wp.png"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\MVCJuego\\CarritoMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alan\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarritoMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarritoMVC.props",
+      "PackagePath": "build\\CarritoMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarritoMVC.props",
+      "PackagePath": "buildMultiTargeting\\CarritoMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarritoMVC.props",
+      "PackagePath": "buildTransitive\\CarritoMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<CarritoMVC.Models.Carrito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .titulo-carritos {
+        text-align: center;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .descripcion {
+        text-align: center;
+        font-size: 25px;
+        font-weight: 800;
+    }
+</style>
+<h1 class="titulo-carritos">Nuestras carritos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Activo)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.SubTotal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubTotal)
+            </td>
+            <td> 
+              <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.CarritoId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

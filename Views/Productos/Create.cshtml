@@ -1,0 +1,75 @@
+﻿@model CarritoMVC.Models.Producto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    .titulo-categorias {
+        text-align: center;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+</style>
+<h1 class="titulo-categorias">Crear producto</h1>
+<hr />
+<center>
+<div class="row">
+    <div class="col-lg-12">
+        
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Cantidad" value="0"/>
+            <div class="form-group">
+                <label asp-for="CategoriaId" class="control-label"></label>
+                <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Imagen" class="control-label"></label>
+                <input asp-for="Imagen" class="form-control" />
+                <span asp-validation-for="Imagen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrecioVigente" class="control-label"></label>
+                <input asp-for="PrecioVigente" class="form-control" />
+                <span asp-validation-for="PrecioVigente" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Activo" /> @Html.DisplayNameFor(model => model.Activo)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Destacado" /> @Html.DisplayNameFor(model => model.Destacado)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+       
+    </div>
+</div>
+
+<div>
+    <br />
+        <a class="btn btn-outline-success" asp-action="Index">Volver a la lista de productos</a>
+</div>
+</center>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

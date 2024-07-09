@@ -1,0 +1,84 @@
+﻿@model CarritoMVC.Models.Producto
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .titulo-productos {
+        text-align: center;
+        padding-bottom: 30px;
+        padding-top: 30px;
+
+    }
+
+    .descripcion {
+        ttext-align: center;
+        font-size: 19px;
+        font-weight: 500;
+        font-family: "monospace;
+    }
+</style>
+
+<h1 class="titulo-productos">Nuestros productos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.PrecioVigente)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Activo)
+            </th>
+            <th class="descripcion">
+                @Html.DisplayNameFor(model => model.Destacado)
+            </t>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Producto item in ViewBag.productos) {
+        <tr>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Categoria.Descripcion)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Imagen)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.PrecioVigente)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Activo)
+            </td>
+            <td class="descripcion">
+                @Html.DisplayFor(modelItem => item.Destacado)
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.ProductoId">Editar</a> |
+                <a class="btn btn-success" asp-action="Details" asp-route-id="@item.ProductoId">Detalles</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ProductoId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
